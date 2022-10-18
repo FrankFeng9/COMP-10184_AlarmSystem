@@ -1,7 +1,7 @@
 // COMP-10184 – Mohawk College
 // AlarmSystem
 //
-// This program represents an alarm system. When montion detected, alarm 10s countdown starts. User can deviate the alarm by pressing the button.
+// This program represents an alarm system. When montion detected, alarm countdown starts. User can deactive the alarm by pressing the button.
 // If the button is not pressed within 10s, the alarm will be triggered. The alarm can be reset by pressing the button.
 //
 // @author  Yizhe Feng  @id 000798153
