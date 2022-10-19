@@ -7,6 +7,8 @@
 // @author  Yizhe Feng  @id 000798153
 //
 // I created this work and I have not shared it with anyone else.
+//
+//stage 5 completed
 
 #include <Arduino.h>
 // digital input pin definitions
